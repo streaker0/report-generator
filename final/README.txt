@@ -1,5 +1,5 @@
 Author: Akinbile Ayodeji
-		101063483
+
 
 Purpose: 	My program uses the NGS data provided in order to generate a total of five (5) reports, upon request by
 			the user
